@@ -2,4 +2,8 @@ created file 1 for CR1
 
 updated for CR2
 
+<<<<<<< Updated upstream
 hotfix
+=======
+added code for cr3
+>>>>>>> Stashed changes
